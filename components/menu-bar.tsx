@@ -21,7 +21,7 @@ export default function MenuBar() {
     <nav
       className={`z-50 py-4 flex items-center gap-2 bg-neutral-900 mb-[1.5rem] overflow-auto transition-all duration-300 ${
         isSticky
-          ? 'sticky top-0 left-0 right-0 w-full shadow-md max-w-[1180px] lg:justify-center border-b-2'
+          ? 'sticky top-0 left-0 right-0 shadow-md w-full lg:justify-center border-b-2 xl:max-w-[80rem]'
           : 'max-w-full'
       }`}
     >

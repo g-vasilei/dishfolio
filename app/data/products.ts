@@ -28,7 +28,8 @@ export const menu = {
     products: {
       cheeseburger: {
         title: 'Cheeseburger',
-        description: 'A delicious cheeseburger to satisfy your craving.',
+        description:
+          'Ζουμερό μοσχαρίσιο μπιφτέκι 100%, cheddar λιωμένο, τραγανές πίκλες, φρέσκο κρεμμύδι, μουστάρδα & κέτσαπ, σε αφράτο brioche.',
         slug: 'cheeseburger',
         id: '1001',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -36,7 +37,8 @@ export const menu = {
       },
       'bacon-burger': {
         title: 'Bacon Burger',
-        description: 'A delicious bacon burger to satisfy your craving.',
+        description:
+          'Μοσχαρίσιο burger με cheddar, καραμελωμένο μπέικον, τραγανό μαρούλι, μαγιονέζα και καπνιστή BBQ sauce, σε αφράτο brioche.',
         slug: 'bacon-burger',
         id: '1002',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -44,7 +46,8 @@ export const menu = {
       },
       'veggie-burger': {
         title: 'Veggie Burger',
-        description: 'A delicious veggie burger to satisfy your craving.',
+        description:
+          'Φυτικό μπιφτέκι λαχανικών, τομάτα, μαρούλι και vegan mayo, σε αφράτο ψωμάκι—γεύση χωρίς συμβιβασμούς!',
         slug: 'veggie-burger',
         id: '1003',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -52,7 +55,8 @@ export const menu = {
       },
       'double-patty': {
         title: 'Double Patty',
-        description: 'A delicious double patty to satisfy your craving.',
+        description:
+          'Διπλό μοσχαρίσιο μπιφτέκι, λιωμένο cheddar, φρέσκια ντομάτα και μαρούλι—μέγιστη απόλαυση σε κάθε μπουκιά.',
         slug: 'double-patty',
         id: '1004',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -60,7 +64,7 @@ export const menu = {
       },
       'mushroom-swiss': {
         title: 'Mushroom Swiss',
-        description: 'A delicious mushroom swiss to satisfy your craving.',
+        description: 'Μοσχαρίσιο burger με σοταρισμένα μανιτάρια, λιωμένο Swiss, μαρούλι και sauce σε αφράτο ψωμί.',
         slug: 'mushroom-swiss',
         id: '1005',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -68,7 +72,8 @@ export const menu = {
       },
       'chicken-burger': {
         title: 'Chicken Burger',
-        description: 'A delicious chicken burger to satisfy your craving.',
+        description:
+          'Φιλέτο κοτόπουλο ψητό, cheddar, μαρούλι, ντομάτα, κρεμμύδι και signature sauce, σε αφράτο brioche.',
         slug: 'chicken-burger',
         id: '1006',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -76,7 +81,7 @@ export const menu = {
       },
       'fish-burger': {
         title: 'Fish Burger',
-        description: 'A delicious fish burger to satisfy your craving.',
+        description: 'Τραγανό φιλέτο ψαριού, φρέσκα λαχανικά και αυθεντική tartar sauce, μέσα σε αφράτο ψωμάκι.',
         slug: 'fish-burger',
         id: '1007',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -84,7 +89,8 @@ export const menu = {
       },
       'bbq-burger': {
         title: 'BBQ Burger',
-        description: 'A delicious bbq burger to satisfy your craving.',
+        description:
+          'Burger με μοσχαρίσιο μπιφτέκι, BBQ sauce, cheddar, μπέικον και καραμελωμένα κρεμμύδια—γεύση που κολλάει.',
         slug: 'bbq-burger',
         id: '1008',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -92,7 +98,7 @@ export const menu = {
       },
       'spicy-burger': {
         title: 'Spicy Burger',
-        description: 'A delicious spicy burger to satisfy your craving.',
+        description: 'Καυτερό burger με spicy sauce, jalapeños, cheddar, ντομάτα και μαρούλι, για τους τολμηρούς.',
         slug: 'spicy-burger',
         id: '1009',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -100,7 +106,7 @@ export const menu = {
       },
       'classic-burger': {
         title: 'Classic Burger',
-        description: 'A delicious classic burger to satisfy your craving.',
+        description: 'Κλασικό μοσχαρίσιο burger με cheddar, φρέσκα λαχανικά και house sauce, σε αφράτο ψωμάκι.',
         slug: 'classic-burger',
         id: '1010',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -115,7 +121,7 @@ export const menu = {
     products: {
       margherita: {
         title: 'Margherita',
-        description: 'A delicious margherita to satisfy your craving.',
+        description: 'Κλασική ιταλική μαργαρίτα με ντομάτα, μοτσαρέλα και φρέσκο βασιλικό πάνω σε λεπτή, τραγανή βάση.',
         slug: 'margherita',
         id: '2001',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -123,7 +129,8 @@ export const menu = {
       },
       pepperoni: {
         title: 'Pepperoni',
-        description: 'A delicious pepperoni to satisfy your craving.',
+        description:
+          'Σαρκώδες pepperoni, λιωμένη μοτσαρέλα και έντονη ντομάτα πάνω σε τραγανή ζύμη — spicy και χορταστική.',
         slug: 'pepperoni',
         id: '2002',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -131,7 +138,8 @@ export const menu = {
       },
       'four-cheese': {
         title: 'Four Cheese',
-        description: 'A delicious four cheese to satisfy your craving.',
+        description:
+          'Τέσσερα τυριά (μοτσαρέλα, cheddar, gorgonzola, parmesan), πλούσια και αρωματική—για τους λάτρεις του τυριού.',
         slug: 'four-cheese',
         id: '2003',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -139,7 +147,7 @@ export const menu = {
       },
       hawaiian: {
         title: 'Hawaiian',
-        description: 'A delicious hawaiian to satisfy your craving.',
+        description: 'Ζουμερή ζαμπόν και γλυκό ανανά πάνω σε ντομάτα & μοτσαρέλα—ιδανική ισορροπία γλυκού/αλμυρού.',
         slug: 'hawaiian',
         id: '2004',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -147,7 +155,7 @@ export const menu = {
       },
       'bbq-chicken': {
         title: 'BBQ Chicken',
-        description: 'A delicious bbq chicken to satisfy your craving.',
+        description: 'Κοτόπουλο, BBQ sauce και cheddar πάνω σε ντομάτα—πλούσια γεύση με καπνιστό άρωμα.',
         slug: 'bbq-chicken',
         id: '2005',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -155,7 +163,7 @@ export const menu = {
       },
       'meat-lovers': {
         title: 'Meat Lovers',
-        description: 'A delicious meat lovers to satisfy your craving.',
+        description: 'Με μοτσαρέλα, pepperoni, ζαμπόν και μπέικον—μια πανδαισία κρεατολατρών πάνω σε τραγανή βάση.',
         slug: 'meat-lovers',
         id: '2006',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -163,7 +171,7 @@ export const menu = {
       },
       veggie: {
         title: 'Veggie',
-        description: 'A delicious veggie to satisfy your craving.',
+        description: 'Φρέσκα λαχανικά, ντομάτα, πιπεριά, κρεμμύδι και μοτσαρέλα — ελαφριά και γεμάτη γεύση.',
         slug: 'veggie',
         id: '2007',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -171,7 +179,8 @@ export const menu = {
       },
       'white-pizza': {
         title: 'White Pizza',
-        description: 'A delicious white pizza to satisfy your craving.',
+        description:
+          'Βάση με κρέμα λευκού τυριού, μοτσαρέλα, σκόρδο και μυρωδικά — χωρίς ντομάτα, αλλά με πολλά αρώματα.',
         slug: 'white-pizza',
         id: '2008',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -179,7 +188,7 @@ export const menu = {
       },
       mushroom: {
         title: 'Mushroom',
-        description: 'A delicious mushroom to satisfy your craving.',
+        description: 'Σοταρισμένα μανιτάρια, μοτσαρέλα και φρέσκα μυρωδικά πάνω σε λεπτή βάση — αρωματική επιλογή.',
         slug: 'mushroom',
         id: '2009',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -187,7 +196,7 @@ export const menu = {
       },
       buffalo: {
         title: 'Buffalo',
-        description: 'A delicious buffalo to satisfy your craving.',
+        description: 'Κοτόπουλο buffalo, καυτερή sauce, μοτσαρέλα και κρεμμύδι — έντονη, πικάντικη απόλαυση.',
         slug: 'buffalo',
         id: '2010',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -202,7 +211,8 @@ export const menu = {
     products: {
       carbonara: {
         title: 'Carbonara',
-        description: 'A delicious carbonara to satisfy your craving.',
+        description:
+          'Παραδοσιακή ιταλική καρμπονάρα με μπέικον, στάκα κρέμα αυγών, pecorino και πιπέρι—κρεμώδης και αρωματική.',
         slug: 'carbonara',
         id: '3001',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -210,7 +220,7 @@ export const menu = {
       },
       bolognese: {
         title: 'Bolognese',
-        description: 'A delicious bolognese to satisfy your craving.',
+        description: 'Καλομαγειρεμένη μπολόνια με μοσχαρίσιο κιμά, ντομάτα και αρωματικά μυρωδικά—γεμάτη γεύση.',
         slug: 'bolognese',
         id: '3002',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -218,7 +228,7 @@ export const menu = {
       },
       alfredo: {
         title: 'Alfredo',
-        description: 'A delicious alfredo to satisfy your craving.',
+        description: 'Κομψό άλφρεντο με βούτυρο, κρέμα γάλακτος και παρμεζάνα — πλούσιο και βελούδινο.',
         slug: 'alfredo',
         id: '3003',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -226,7 +236,7 @@ export const menu = {
       },
       marinara: {
         title: 'Marinara',
-        description: 'A delicious marinara to satisfy your craving.',
+        description: 'Λαχταριστή μαρινάρα με σάλτσα ντομάτας, σκόρδο, φρέσκα μυρωδικά — ελαφριά ελληνική προσέγγιση.',
         slug: 'marinara',
         id: '3004',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -234,7 +244,7 @@ export const menu = {
       },
       pesto: {
         title: 'Pesto',
-        description: 'A delicious pesto to satisfy your craving.',
+        description: 'Πέστο βασιλικού με φιστίκι/πελτέ, παρμεζάνα, ελαιόλαδο και σκόρδο—δροσερή και αρωματική επιλογή.',
         slug: 'pesto',
         id: '3005',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -242,7 +252,7 @@ export const menu = {
       },
       lasagna: {
         title: 'Lasagna',
-        description: 'A delicious lasagna to satisfy your craving.',
+        description: 'Στρώσεις λαζάνια με κιμά, μπεσαμέλ, μοτσαρέλα και παρμεζάνα—ζεστή, φιλόξενη γεύση.',
         slug: 'lasagna',
         id: '3006',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -250,7 +260,7 @@ export const menu = {
       },
       ravioli: {
         title: 'Ravioli',
-        description: 'A delicious ravioli to satisfy your craving.',
+        description: 'Γεμιστά ραβιόλι με ricotta/σπανάκι ή мясr, σε ζεστή σάλτσα—delicate και νόστιμο.',
         slug: 'ravioli',
         id: '3007',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -258,7 +268,7 @@ export const menu = {
       },
       spaghetti: {
         title: 'Spaghetti',
-        description: 'A delicious spaghetti to satisfy your craving.',
+        description: 'Αλ ντεντέ σπαγγέτι με ελαφριά σάλτσα τομάτας ή λάδη, σκόρδο και υγιεινά μυρωδικά.',
         slug: 'spaghetti',
         id: '3008',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -266,7 +276,7 @@ export const menu = {
       },
       'mac-&-cheese': {
         title: 'Mac & Cheese',
-        description: 'A delicious mac & cheese to satisfy your craving.',
+        description: 'Παραδοσιακό mac & cheese με cheddar και κρεμώδη σάλτσα—comfort food σε μορφή πάστας.',
         slug: 'mac-&-cheese',
         id: '3009',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -274,7 +284,7 @@ export const menu = {
       },
       'penne-arrabbiata': {
         title: 'Penne Arrabbiata',
-        description: 'A delicious penne arrabbiata to satisfy your craving.',
+        description: 'Πέννες με πικάντικη σάλτσα arrabbiata—ντομάτα, σκόρδο και καυτερή πιπεριά για έντονη γεύση.',
         slug: 'penne-arrabbiata',
         id: '3010',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -289,7 +299,7 @@ export const menu = {
     products: {
       tiramisu: {
         title: 'Tiramisu',
-        description: 'A delicious tiramisu to satisfy your craving.',
+        description: 'Κλασικό tiramisu με mascarpone, espresso, σαβουαγιάρ και άρωμα κακάο—αέρινο και σαν διαλογισμός.',
         slug: 'tiramisu',
         id: '4001',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -297,7 +307,7 @@ export const menu = {
       },
       'chocolate-cake': {
         title: 'Chocolate Cake',
-        description: 'A delicious chocolate cake to satisfy your craving.',
+        description: 'Σοκολατένια τούρτα με πλούσια ganache, υγρό κέντρο και σοκολατένιο καταπληκτικό άρωμα.',
         slug: 'chocolate-cake',
         id: '4002',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -305,7 +315,7 @@ export const menu = {
       },
       cheesecake: {
         title: 'Cheesecake',
-        description: 'A delicious cheesecake to satisfy your craving.',
+        description: 'Κρεμώδης cheesecake με μπισκότο βάση, φρέσκια κρέμα τυριού & λεπτό άρωμα λεμονιού.',
         slug: 'cheesecake',
         id: '4003',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -313,7 +323,7 @@ export const menu = {
       },
       'ice-cream': {
         title: 'Ice Cream',
-        description: 'A delicious ice cream to satisfy your craving.',
+        description: 'Σπιτική παγωμένη κρέμα σε κλασικές γεύσεις—βατόμουρο, σοκολάτα ή φιστίκι, δροσερή απόλαυση.',
         slug: 'ice-cream',
         id: '4004',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
@@ -321,7 +331,7 @@ export const menu = {
       },
       'apple-pie': {
         title: 'Apple Pie',
-        description: 'A delicious apple pie to satisfy your craving.',
+        description: 'Ζεστή μηλόπιτα με κανέλα, βούτυρο και τραγανή ζύμη — comfort γεύση σαν στο σπίτι.',
         slug: 'apple-pie',
         id: '4005',
         img: 'https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1737104576&width=1080',
